@@ -6,3 +6,8 @@ body {
 .fide {
     color: black;
 }
+
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}

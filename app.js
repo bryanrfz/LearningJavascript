@@ -151,10 +151,10 @@ function swicthCase(valor){
         case 2:
             answer="beta";
             break;
-        case 1:
+        case 3:
             answer="gamma";
             break;
-        case 1:
+        case 4:
             answer="delta";
             break; 
         default:
