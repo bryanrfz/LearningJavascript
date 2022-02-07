@@ -164,5 +164,5 @@ function swicthCase(valor){
     return answer;
 }
 
-console.log(swicthCase(12));
+console.log(swicthCase(11));
 
